@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1704157471372') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bijiben:before {
+  content: "\f00a7";
+}
+
+.icon-shuzhuangtu:before {
+  content: "\f00ce";
+}
+
+.icon-lieri:before {
+  content: "\f0210";
+}
+
+.icon-jinggao:before {
+  content: "\f02fe";
+}
+
+.icon-jinru:before {
+  content: "\e615";
+}
+
+.icon-shouye:before {
+  content: "\e630";
+}
+
+.icon-jiankong:before {
+  content: "\eb37";
+}
+
+.icon-shebeidadian_o:before {
+  content: "\eb59";
+}
+
+.icon-shandian:before {
+  content: "\e8c5";
+}
+
+.icon-baogao:before {
+  content: "\e61f";
+}
+
+.icon-chart-bar:before {
+  content: "\e667";
+}
+
+.icon-copy:before {
+  content: "\e66a";
+}
+
+.icon-electronics:before {
+  content: "\e66e";
+}
+
+.icon-layout:before {
+  content: "\e676";
+}
+
+.icon-layers:before {
+  content: "\e675";
+}
+
+.icon-setting:before {
+  content: "\e67d";
+}
+
+.icon-zongfushe:before {
+  content: "\e6c1";
+}
+
+.icon-logistics-warehouse-fill:before {
+  content: "\e82e";
+}
+
+.icon-message-comments:before {
+  content: "\e82f";
+}
+
+.icon-lock:before {
+  content: "\e83d";
+}
+
+.icon-shut-down:before {
+  content: "\e869";
+}
+
+.icon-survey:before {
+  content: "\e86b";
+}
+
+.icon-yumaobi:before {
+  content: "\e60b";
+}
+
+.icon-liangduheduibidu:before {
+  content: "\e771";
+}
+
